@@ -4,6 +4,8 @@
  */
 package midtermexam_versiona_extensioncode;
 
+import java.util.Scanner;
+
 /**
  *
  * @author 91690
